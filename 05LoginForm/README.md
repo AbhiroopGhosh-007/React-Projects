@@ -1,12 +1,25 @@
-# React + Vite
+# 🔐 Day 5 – Login Form with Real-Time Validation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Features
+- Controlled form with email & password
+- Real-time validation (email format + password length)
+- Submit button enabled only when form is valid
 
-Currently, two official plugins are available:
+## 💡 Concepts Used
+- `useState` for form fields
+- Controlled inputs
+- Regex validation
+- Conditional rendering
+- Tailwind for form UI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshot
+<img width="1849" height="926" alt="Screenshot (272)" src="https://github.com/user-attachments/assets/3f81170c-a019-4480-aec9-5fc5fef340a3" />
+<img width="1866" height="930" alt="Screenshot (273)" src="https://github.com/user-attachments/assets/a65cf97e-1387-4a62-b613-1e8d8ab7b8e2" />
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🛠️ Tech Stack
+- React.js
+- Tailwind CSS
+
+
